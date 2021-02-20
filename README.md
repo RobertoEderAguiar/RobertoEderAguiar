@@ -7,7 +7,7 @@ Link do linkedin: https://www.linkedin.com/in/roberto-eder-aguiar-a9a066b3/<br>
 
 🔭Atualmente estou trabalhando na Pague Menos como Líder Técnico<br>
 👨🏻‍🎓Bacharel em Sistemas de Informação, MBA em Projetos e Processo e PÓS em Ciencias de Dados<br>
-📚 Atualmente estou me especializando em Ciência de Dados(Machine Learning) para automação de processos<br>
+📚 Atualmente estou me especializando em Ciência de Dados(Machine Learning)<br>
 <br>
 Coisas que amo:<br>
 🎯 Automatizar Processo<br>
