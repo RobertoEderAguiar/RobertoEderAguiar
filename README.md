@@ -1,4 +1,4 @@
-🔭Meu nome é Roberto Eder, sou Analista de Sistemas, Consultor Totvs Fluig®, . Nos últimos anos, trabalhei com Automação de Processos tanto na parte de BPM com a ferramenta Fluig e automatizando Processo com Python. Apaixonado por tecnologia! <br>
+🔭Meu nome é Roberto Eder, sou Especialista em Automação, Consultor Totvs Fluig®, . Nos últimos anos, trabalhei com Automação de Processos tanto na parte de BPM com a ferramenta Fluig e automatizando Processo com Python. Apaixonado por tecnologia! <br>
 
 Em minha jornada, eu aprendo e gosto de trabalhar sobre negócios, processo e pessoas para entender e transformar a ideia de um sistema. Acredito no poder dos dados para a tomada de decisão! <br><br>
 
